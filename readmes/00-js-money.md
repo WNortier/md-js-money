@@ -8,6 +8,10 @@
 
 ---
 
+https://www.npmjs.com/package/js-money
+
+`npm i js-money`
+
 ## <a name="Allocating"></a>Allocating
 
 ```js
