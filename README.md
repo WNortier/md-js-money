@@ -1,1 +1,1 @@
-# js-money# js-money
+# js-money
