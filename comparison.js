@@ -1,4 +1,4 @@
-const Money = require('js-money');
+const Money = require("js-money");
 
 var fiveEur = new Money(500, Money.EUR);
 var anotherFiveEur = new Money(500, Money.EUR);
